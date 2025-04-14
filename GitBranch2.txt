@@ -1,1 +1,2 @@
-To jest plik edytowany przez PC i tylko PC.
+
+To jest plik edytowany przez PC i wyłącznie przez PC.
